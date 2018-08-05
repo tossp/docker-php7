@@ -1,7 +1,7 @@
 FROM alpine:edge
 
 LABEL maintainer="TossPig <docker@TossP.com>" \
-      version="2.0.0" \
+      version="2.0.1" \
       description="php7服务"
 
 ENV TIMEZONE Asia/Shanghai
